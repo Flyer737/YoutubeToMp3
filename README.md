@@ -13,6 +13,7 @@ Python3 script that makes downloading mp3 files from youtube with youtube-dl sim
 * Install updated version of Youtube-dl
 
 `sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl`
+
 `sudo chmod a+rx /usr/local/bin/youtube-dl`
 
 `hash -r`
